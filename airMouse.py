@@ -1,3 +1,6 @@
+# 電気通信大学 高橋裕樹 研究室 オープンキャンパス デモ
+# v1.1.2
+
 import cv2
 import mediapipe as mp
 import pyautogui
